@@ -8,7 +8,7 @@ import java.util.HashMap;
  * event with that name, or make a new one. This allows for different
  * classes and different objects to access the same events, and thus one
  * can trigger something in the other.
- * @author Lawson Wright
+ * @author totoro987123
  * @since 2020-09-18
  * @version 1.0.0
  */
